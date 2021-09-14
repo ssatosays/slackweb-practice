@@ -1,5 +1,5 @@
 # slackweb-practice
-This repo is practice using slackweb for slack.com
+This repo is for practice using slackweb for slack.com
 
 ## slackweb
 
